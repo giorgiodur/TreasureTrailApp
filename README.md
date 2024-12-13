@@ -6,7 +6,15 @@ Treasure Trail is an interactive iOS app built with Xcode that turns exploring a
 
 
 ##Screenshots
-
+/Users/giorgiodurante/Desktop/TreasureTrailApp/screenshots/IMG_1779.PNG
+/Users/giorgiodurante/Desktop/TreasureTrailApp/screenshots/IMG_1780.PNG
+/Users/giorgiodurante/Desktop/TreasureTrailApp/screenshots/IMG_1781.PNG
+/Users/giorgiodurante/Desktop/TreasureTrailApp/screenshots/IMG_1782.PNG
+/Users/giorgiodurante/Desktop/TreasureTrailApp/screenshots/IMG_1783.PNG
+/Users/giorgiodurante/Desktop/TreasureTrailApp/screenshots/IMG_1784.PNG
+/Users/giorgiodurante/Desktop/TreasureTrailApp/screenshots/IMG_1785.PNG
+/Users/giorgiodurante/Desktop/TreasureTrailApp/screenshots/IMG_1786.PNG
+/Users/giorgiodurante/Desktop/TreasureTrailApp/screenshots/IMG_1787.PNG
 
 
 ##Features
