@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		D52890282D0C429F00F856B0 /* MyXcodeProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyXcodeProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D51FD24B2D06FC0F00DF7EFE /* Treasure Trail.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Treasure Trail.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		D528902A2D0C429F00F856B0 /* MyXcodeProject */ = {
+		D51FD24D2D06FC0F00DF7EFE /* Treasure Trail */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = MyXcodeProject;
+			path = "Treasure Trail";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D52890252D0C429F00F856B0 /* Frameworks */ = {
+		D51FD2482D06FC0F00DF7EFE /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -29,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		D528901F2D0C429F00F856B0 = {
+		D51FD2422D06FC0F00DF7EFE = {
 			isa = PBXGroup;
 			children = (
-				D528902A2D0C429F00F856B0 /* MyXcodeProject */,
-				D52890292D0C429F00F856B0 /* Products */,
+				D51FD24D2D06FC0F00DF7EFE /* Treasure Trail */,
+				D51FD24C2D06FC0F00DF7EFE /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		D52890292D0C429F00F856B0 /* Products */ = {
+		D51FD24C2D06FC0F00DF7EFE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D52890282D0C429F00F856B0 /* MyXcodeProject.app */,
+				D51FD24B2D06FC0F00DF7EFE /* Treasure Trail.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D52890272D0C429F00F856B0 /* MyXcodeProject */ = {
+		D51FD24A2D06FC0F00DF7EFE /* Treasure Trail */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = D52890362D0C42A100F856B0 /* Build configuration list for PBXNativeTarget "MyXcodeProject" */;
+			buildConfigurationList = D51FD2592D06FC1000DF7EFE /* Build configuration list for PBXNativeTarget "Treasure Trail" */;
 			buildPhases = (
-				D52890242D0C429F00F856B0 /* Sources */,
-				D52890252D0C429F00F856B0 /* Frameworks */,
-				D52890262D0C429F00F856B0 /* Resources */,
+				D51FD2472D06FC0F00DF7EFE /* Sources */,
+				D51FD2482D06FC0F00DF7EFE /* Frameworks */,
+				D51FD2492D06FC0F00DF7EFE /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				D528902A2D0C429F00F856B0 /* MyXcodeProject */,
+				D51FD24D2D06FC0F00DF7EFE /* Treasure Trail */,
 			);
-			name = MyXcodeProject;
+			name = "Treasure Trail";
 			packageProductDependencies = (
 			);
-			productName = MyXcodeProject;
-			productReference = D52890282D0C429F00F856B0 /* MyXcodeProject.app */;
+			productName = "Treasure Trail";
+			productReference = D51FD24B2D06FC0F00DF7EFE /* Treasure Trail.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		D52890202D0C429F00F856B0 /* Project object */ = {
+		D51FD2432D06FC0F00DF7EFE /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1600;
 				LastUpgradeCheck = 1600;
 				TargetAttributes = {
-					D52890272D0C429F00F856B0 = {
+					D51FD24A2D06FC0F00DF7EFE = {
 						CreatedOnToolsVersion = 16.0;
 					};
 				};
 			};
-			buildConfigurationList = D52890232D0C429F00F856B0 /* Build configuration list for PBXProject "MyXcodeProject" */;
+			buildConfigurationList = D51FD2462D06FC0F00DF7EFE /* Build configuration list for PBXProject "Treasure Trail" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = D528901F2D0C429F00F856B0;
+			mainGroup = D51FD2422D06FC0F00DF7EFE;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = D52890292D0C429F00F856B0 /* Products */;
+			productRefGroup = D51FD24C2D06FC0F00DF7EFE /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D52890272D0C429F00F856B0 /* MyXcodeProject */,
+				D51FD24A2D06FC0F00DF7EFE /* Treasure Trail */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D52890262D0C429F00F856B0 /* Resources */ = {
+		D51FD2492D06FC0F00DF7EFE /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -115,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D52890242D0C429F00F856B0 /* Sources */ = {
+		D51FD2472D06FC0F00DF7EFE /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -125,7 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		D52890342D0C42A100F856B0 /* Debug */ = {
+		D51FD2572D06FC1000DF7EFE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -188,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		D52890352D0C42A100F856B0 /* Release */ = {
+		D51FD2582D06FC1000DF7EFE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,17 +244,18 @@
 			};
 			name = Release;
 		};
-		D52890372D0C42A100F856B0 /* Debug */ = {
+		D51FD25A2D06FC1000DF7EFE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"MyXcodeProject/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Treasure Trail/SupportFiles/Preview Content\"";
 				DEVELOPMENT_TEAM = R9UCFBAVG6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "\"This app requires access to the camera to recognize monuments and unlock descriptions.\"";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -265,7 +266,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = org.academy.developer.giorgio.MyXcodeProject;
+				PRODUCT_BUNDLE_IDENTIFIER = "org.academy.developer.giorgio.Treasure-Trail";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -273,17 +274,18 @@
 			};
 			name = Debug;
 		};
-		D52890382D0C42A100F856B0 /* Release */ = {
+		D51FD25B2D06FC1000DF7EFE /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"MyXcodeProject/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"Treasure Trail/SupportFiles/Preview Content\"";
 				DEVELOPMENT_TEAM = R9UCFBAVG6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "\"This app requires access to the camera to recognize monuments and unlock descriptions.\"";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -294,7 +296,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = org.academy.developer.giorgio.MyXcodeProject;
+				PRODUCT_BUNDLE_IDENTIFIER = "org.academy.developer.giorgio.Treasure-Trail";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -305,25 +307,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		D52890232D0C429F00F856B0 /* Build configuration list for PBXProject "MyXcodeProject" */ = {
+		D51FD2462D06FC0F00DF7EFE /* Build configuration list for PBXProject "Treasure Trail" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D52890342D0C42A100F856B0 /* Debug */,
-				D52890352D0C42A100F856B0 /* Release */,
+				D51FD2572D06FC1000DF7EFE /* Debug */,
+				D51FD2582D06FC1000DF7EFE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D52890362D0C42A100F856B0 /* Build configuration list for PBXNativeTarget "MyXcodeProject" */ = {
+		D51FD2592D06FC1000DF7EFE /* Build configuration list for PBXNativeTarget "Treasure Trail" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D52890372D0C42A100F856B0 /* Debug */,
-				D52890382D0C42A100F856B0 /* Release */,
+				D51FD25A2D06FC1000DF7EFE /* Debug */,
+				D51FD25B2D06FC1000DF7EFE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = D52890202D0C429F00F856B0 /* Project object */;
+	rootObject = D51FD2432D06FC0F00DF7EFE /* Project object */;
 }
