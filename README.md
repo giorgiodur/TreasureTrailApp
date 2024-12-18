@@ -6,17 +6,15 @@ Treasure Trail is an interactive iOS app built with Xcode that turns exploring a
 
 
 ##Screenshots
-![IMG_1787](https://github.com/user-attachments/assets/9122d92c-a61f-4677-89c6-20fd2ed55f6d)
-![IMG_1786](https://github.com/user-attachments/assets/acf712ff-691f-48fd-b687-55b0a6aaac8a)
+![IMG_1779](https://github.com/user-attachments/assets/fc0d12ea-dddc-4dbf-a548-05b451bf0df4)
+![IMG_1780](https://github.com/user-attachments/assets/b305f88c-2e05-4de5-97cf-9e27ce0b81ac)
+![IMG_1781](https://github.com/user-attachments/assets/b399659d-8cdb-4466-a200-911e9d442c84)
+![IMG_1782](https://github.com/user-attachments/assets/4cff98af-51a2-4127-a988-943b831d8804)
+![IMG_1783](https://github.com/user-attachments/assets/b100a642-df7f-40fb-be5b-9d29de4cda57)    
 ![IMG_1784](https://github.com/user-attachments/assets/0687be3b-21c0-42c8-988a-466e6cc6ca38)
 ![IMG_1785](https://github.com/user-attachments/assets/09bee7df-c22e-4091-a3aa-1d0d2b2a815d)
-![IMG_1783](https://github.com/user-attachments/assets/b100a642-df7f-40fb-be5b-9d29de4cda57)
-![IMG_1782](https://github.com/user-attachments/assets/4cff98af-51a2-4127-a988-943b831d8804)
-![IMG_1781](https://github.com/user-attachments/assets/b399659d-8cdb-4466-a200-911e9d442c84)
-![IMG_1780](https://github.com/user-attachments/assets/b305f88c-2e05-4de5-97cf-9e27ce0b81ac)
-![IMG_1779](https://github.com/user-attachments/assets/fc0d12ea-dddc-4dbf-a548-05b451bf0df4)
-
-
+![IMG_1786](https://github.com/user-attachments/assets/acf712ff-691f-48fd-b687-55b0a6aaac8a)
+![IMG_1787](https://github.com/user-attachments/assets/9122d92c-a61f-4677-89c6-20fd2ed55f6d)
 
 
 ##Features
