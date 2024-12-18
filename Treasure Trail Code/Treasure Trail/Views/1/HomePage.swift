@@ -21,11 +21,12 @@ struct HomePage: View {
                     HStack {
                         
                         Text("TREASURE TRAIL")
-                            .font(.largeTitle)
-                            .fontWeight(.bold)
+                                                    .font(.system(size: 34, weight: .heavy, design: .rounded)) // Modified this line
+                                                    .foregroundColor(.primary) // Added this line
+
                         Spacer()
                     }
-                    Text("Discover, Snap, and Unlock History")
+                    Text("Discover an unlock cities")
                         .font(.subheadline)
                         .foregroundColor(.gray)
                 }
